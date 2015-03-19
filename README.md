@@ -1,5 +1,5 @@
 # JQuora
 This is an unofficial API for Quora made in Java.
 
-New line by wgtmac
+New line by Gang2
 Don't delete it.
